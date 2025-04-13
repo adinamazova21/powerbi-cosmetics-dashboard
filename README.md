@@ -60,7 +60,8 @@ This project analyzes a global dataset of beauty products to uncover consumer be
 ## 📎 Files Included
 
 - `cosmetics-dashboard.pbix` — Power BI file
-- `dashboard-preview.png` — Dashboard screenshot
+- `dashboard-preview1.png` — Dashboard screenshot 1
+- `dashboard-preview2.png` — Dashboard screenshot 2
 - `README.md` — This file
 
 ---
