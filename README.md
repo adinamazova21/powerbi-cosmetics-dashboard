@@ -77,5 +77,5 @@ Dataset by Waqar Ali (2024):
 
 For questions or collaboration:  
 **Adina Mazova** — [adina.mazova@gmail.com](mailto:adina.mazova@gmail.com)  
-GitHub: [github.com/adina-mazova](https://github.com/adina-mazova)
+GitHub: [github.com/adinamazova21](https://github.com/adinamazova21)
 
